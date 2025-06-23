@@ -1,0 +1,3 @@
+Hello there,
+Please email us at helpdesk@company.com or admin@university.edu for support.
+Thank you!
